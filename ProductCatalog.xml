@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+
+<ConsoleCatalog>
+    
+    
+    <console id="msa1">
+        <name>msa1</name>
+        <price>80</price>
+        <image>microsoftcortana.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+
+
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+            <accessory>xbox360_vb</accessory>
+            <accessory>xbox360_rs</accessory>
+            <accessory>xbox360_mp</accessory>
+            <accessory>xbox360_kg</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+
+    <console id="goa1">
+        <name>Google Home Mini</name>
+        <price>80</price>
+        <image>GoogleHomeMini.jpg</image>
+        <manufacturer>google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </console>
+
+    <console id="goa2">
+        <name>Google Home</name>
+        <price>99</price>
+        <image>GoogleHome.jpg</image>
+        <manufacturer>google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </console>
+
+
+     <console id="aaa1">
+        <name>Apple HomePod white</name>
+        <price>288</price>
+        <image>appleHome.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </console>
+
+
+     <console id="aamazon11">
+        <name>Amazon Echo dot</name>
+        <price>49</price>
+        <image>AmazonEchoDot.jpg</image>
+        <manufacturer>amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </console>
+
+
+    <console id="aamazon13">
+        <name>Amazon Echo</name>
+        <price>99</price>
+        <image>AmazonEcho.jpg</image>
+        <manufacturer>amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </console>
+
+</ConsoleCatalog>
+
+
+
+<PhoneCatalog>
+    <phone id="s7">
+        <name>Samsung Galaxy S7</name>
+        <price>399.99</price>
+        <image>galaxys7.jpg</image>
+        <manufacturer>samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>        
+    </phone>
+    <phone id="s8">
+        <name>Samsung Galaxy S8</name>
+        <price>499.99</price>
+        <image>galaxys8.jpg</image>
+        <manufacturer>samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        
+    </phone>
+
+        <phone id="s9">
+        <name>Samsung Galaxy S9</name>
+        <price>599.99</price>
+        <image>galaxys9.jpg</image>
+        <manufacturer>samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        
+    </phone>
+
+
+    <phone id="s10">
+        <name>Samsung Galaxy S10</name>
+        <price>899.99</price>
+        <image>galaxys10.jpg</image>
+        <manufacturer>samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        
+    </phone>
+
+
+    <phone id="Pixel1">
+        <name>Google Pixel 1</name>
+        <price>399.99</price>
+        <image>Pixel1.jpg</image>
+        <manufacturer>google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>        
+    </phone>
+
+    <phone id="Pixel2">
+        <name>Google Pixel 2</name>
+        <price>499.99</price>
+        <image>Pixel2.jpg</image>
+        <manufacturer>google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>        
+    </phone>
+
+    <phone id="Pixel3">
+        <name>Google Pixel 3</name>
+        <price>699.99</price>
+        <image>Pixel3.jpg</image>
+        <manufacturer>google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>        
+    </phone>
+
+    <phone id="Iphone899">
+        <name>Iphone 8</name>
+        <price>790.99</price>
+        <image>iphone8.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>        
+    </phone>
+
+    <phone id="Iphone11">
+        <name>Iphone 11</name>
+        <price>990.99</price>
+        <image>iphone11.jpeg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>        
+    </phone>
+
+    <phone id="IphoneXS">
+        <name>Iphone XS</name>
+        <price>990.99</price>
+        <image>IphoneXS.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>        
+    </phone>
+
+     <phone id="IphoneX">
+        <name>Iphone X</name>
+        <price>899.99</price>
+        <image>iphonex.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>        
+    </phone>
+
+
+
+
+    <phone id="SonyXA1">
+        <name>Sony Xperia XA1</name>
+        <price>248.95</price>
+        <image>xperiaa1.jpg</image>
+        <manufacturer>sony</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>        
+    </phone>
+
+
+    <phone id="nokia1">
+        <name>Nokia Lumia</name>
+        <price>129.99</price>
+        <image>nokia.jpg</image>
+        <manufacturer>nokia</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>        
+    </phone>
+    
+</PhoneCatalog> 
+
+
+
+<LaptopCatalog>
+    <laptop id="DellInspiron">
+        <name>Dell Inspiron I3</name>
+        <price>234.99</price>
+        <image>dellinspiron.jpg</image>
+        <manufacturer>dell</manufacturer>
+        <condition>New</condition>
+        <discount>2.0</discount>        
+    </laptop>
+
+    <laptop id="Yogalenovo">
+        <name>Lenovo yoga</name>
+        <price>299.99</price>
+        <image>lenovoideapad.jpg</image>
+        <manufacturer>lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount>        
+    </laptop>
+
+   <laptop id="LenovoIdeaPad">
+        <name>Lenovo Idea Pad</name>
+        <price>299.99</price>
+        <image>lenovoideapad.jpg</image>
+        <manufacturer>lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount>        
+    </laptop>
+
+       <laptop id="Yogalenovo">
+        <name>Lenovo yoga</name>
+        <price>299.99</price>
+        <image>lenovoyoga.jpg</image>
+        <manufacturer>lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount>        
+    </laptop>
+
+    <laptop id="EnvyHP">
+        <name>HP Envy I5</name>
+        <price>599.99</price>
+        <image>hpenvy.jpg</image>
+        <manufacturer>hp</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount>        
+    </laptop>
+
+    <laptop id="MacbookPro">
+        <name>MacbookPro I5</name>
+        <price>1200.99</price>
+        <image>MacbookPro.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount>        
+    </laptop>
+    <laptop id="MacbookAir">
+        <name>MacbookAir I5</name>
+        <price>1200.99</price>
+        <image>MacbookAir.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount>        
+    </laptop>
+
+
+    <laptop id="Asus1">
+        <name>Asus 15.6"</name>
+        <price>799.99</price>
+        <image>asus2.jpg</image>
+        <manufacturer>asus</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount>        
+    </laptop>
+
+    <laptop id="LenovoIdeaPadt480">
+        <name>Lenovo Idea Pad 480</name>
+        <price>1195.99</price>
+        <image>LenovoThinkpadT480.jpg</image>
+        <manufacturer>lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount>        
+    </laptop>
+
+
+
+       <laptop id="flexlenovo">
+        <name>Lenovo Flex14</name>
+        <price>599.99</price>
+        <image>lenovoflex.jpg</image>
+        <manufacturer>lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount>        
+    </laptop>
+
+
+    
+</LaptopCatalog>
+
+<TvCatalog>
+    <tv id="PanasonicHd43">
+        <name>Panasonic HD LED (43 inch)</name>
+        <price>599.99</price>
+        <image>panasonic1.jpeg</image>
+        <manufacturer>panasonic</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount> 
+    </tv>
+
+    <tv id="PanasonicHd24">
+        <name>Panasonic HD LED (24 inch)</name>
+        <price>570.99</price>
+        <image>panasonic2.jpg</image>
+        <manufacturer>panasonic</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount> 
+    </tv>
+
+    <tv id="PanasonicHd42">
+        <name>Panasonic HD LED (42 inch)</name>
+        <price>600.99</price>
+        <image>panasonic3.jpeg</image>
+        <manufacturer>panasonic</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount> 
+    </tv>
+
+
+    <tv id="LGUJ630">
+        <name>LG UJ6300</name>
+        <price>400.99</price>
+        <image>LG_UJ6300.jpg</image>
+        <manufacturer>lg</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount> 
+    </tv>
+
+
+     <tv id="SMNU690011">
+        <name>Samsung NU6900</name>
+        <price>279.99</price>
+        <image>samsung1.jpg</image>
+        <manufacturer>samsung</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount> 
+    </tv>
+
+
+    <tv id="SonyX900F1">
+        <name>Sony X900F Series</name>
+        <price>1399.99</price>
+        <image>sony1.jpg</image>
+        <manufacturer>sony</manufacturer>
+        <condition>New</condition>
+        <discount>3.0</discount> 
+    </tv>
+
+    
+</TvCatalog>
+
+
+<TabletCatalog>
+    <tablet id="hp1">
+        <name>Apple AirPod</name>
+        <price>299.99</price>
+        <image>apple1.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+
+    <tablet id="hp2">
+        <name>Apple Rose Gold</name>
+        <price>150.99</price>
+        <image>apple2.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </tablet>
+
+
+ <tablet id="hp33">
+        <name>Bose sound True</name>
+        <price>150.99</price>
+        <image>bose1.jpg</image>
+        <manufacturer>bose</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </tablet>
+
+
+
+<tablet id="hp34">
+        <name>Bose Sport</name>
+        <price>200.99</price>
+        <image>bose2.jpg</image>
+        <manufacturer>bose</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </tablet>
+
+
+
+
+ <tablet id="hp43">
+        <name>Beats Solo Black Red</name>
+        <price>150.99</price>
+        <image>beats1.jpg</image>
+        <manufacturer>beats</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </tablet>
+
+
+
+<tablet id="hp44">
+        <name>Beats Solo Blue</name>
+        <price>200.99</price>
+        <image>beats2.jpg</image>
+        <manufacturer>beats</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </tablet>
+
+
+<tablet id="hp45">
+        <name>Beats Sport</name>
+        <price>230.99</price>
+        <image>beats3.jpg</image>
+        <manufacturer>beats</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </tablet>
+
+
+
+
+
+<tablet id="hp65">
+        <name>Sony Sport</name>
+        <price>200.99</price>
+        <image>sony1.jpg</image>
+        <manufacturer>sony</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </tablet>
+
+    <tablet id="sm789x">
+        <name>samsung Sport</name>
+        <price>200.99</price>
+        <image>samsung1.jpg</image>
+        <manufacturer>samsung</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </tablet>
+
+    
+
+
+
+
+</TabletCatalog>
+<GamesCatalog>
+<game id="watch1">
+        <name>FitbitBlaze(1)</name>
+        <price>300</price>
+        <image>FitbitBlaze.jpg</image>
+        <manufacturer>fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+<game id="watch2">
+        <name>FitbitCharge(2)</name>
+        <price>300.99</price>
+        <image>FitbitCharge.jpg</image>
+        <manufacturer>fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+
+<game id="watch3">
+        <name>FitbitVersa(3)</name>
+        <price>350.99</price>
+        <image>FitbitVersa.jpg</image>
+        <manufacturer>fitbit</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</game>
+
+<game id="watch4">
+        <name>MichaelKors(1)</name>
+        <price>600.99</price>
+        <image>MichaelKors.jpg</image>
+        <manufacturer>mc</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</game>
+
+
+<game id="watch5">
+        <name>KateSpade</name>
+        <price>900.99</price>
+        <image>KateSpade.jpg</image>
+        <manufacturer>ks</manufacturer>
+        <condition>new</condition>
+        <discount>15.0</discount>
+</game>
+
+<game id="watch6">
+        <name>Fossil(1)</name>
+        <price>990.99</price>
+        <image>Fossil.jpg</image>
+        <manufacturer>fl</manufacturer>
+        <condition>new</condition>
+        <discount>15.0</discount>
+</game>
+
+
+<game id="watch789">
+        <name>Apple Watch Series(1)</name>
+        <price>199.99</price>
+        <image>apple.jpg</image>
+        <manufacturer>apple</manufacturer>
+        <condition>new</condition>
+        <discount>15.0</discount>
+</game>
+
+
+</GamesCatalog>
+
+<AccessoryCatalog>
+
+    <accessory id="xboxone_wc">
+        <name>Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_sh">
+        <name>Turtle Beach Headset</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+     <accessory id="xboxone_vb">
+        <name>joystick</name>
+        <price>89.99</price>
+        <image>joystick.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_kg">
+        <name>Keypad</name>
+        <price>89.99</price>
+        <image>keypad.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+     <accessory id="xboxone_rs">
+        <name>Starterkit</name>
+        <price>89.99</price>
+        <image>starterkit.jpeg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_mp">
+        <name>Wireless adpter</name>
+        <price>89.99</price>
+        <image>wirelessadapter.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+     <accessory id="xboxone_mc">
+        <name>Wireless </name>
+        <price>89.99</price>
+        <image>wirelessadapter.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+
+    <accessory id="xbox360_wc">
+        <name>xbox360_wc</name>
+        <price>89.99</price>
+        <image>XBOX360-SpeedWheel.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xbox360_sh">
+        <name>xbox360_sh</name>
+        <price>89.99</price>
+        <image>xbox360_wa.png</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+     <accessory id="xbox360_vb">
+        <name>Remote</name>
+        <price>89.99</price>
+        <image>remote.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+         <accessory id="xbox360_rs">
+        <name>messengerkit</name>
+        <price>89.99</price>
+        <image>messengerkit.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+         <accessory id="xbox360_mp">
+        <name>Steering</name>
+        <price>89.99</price>
+        <image>steering.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+         <accessory id="xbox360_kg">
+        <name>Charger</name>
+        <price>89.99</price>
+        <image>charger.jpg</image>
+        <manufacturer>microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps4_wc">
+        <name>PS Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps3_wc">
+        <name>PS Gaming HeadPhones</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_wc">
+        <name>Nintendo Controller</name>
+        <price>89.99</price>
+        <image>Wii1.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_sh">
+        <name>Nintendo Racing Controller</name>
+        <price>89.99</price>
+        <image>Wii2.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+     
+  
+
+</AccessoryCatalog>
+
+
+
+
+
+</ProductCatalog>
